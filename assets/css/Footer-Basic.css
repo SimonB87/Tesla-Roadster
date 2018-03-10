@@ -1,0 +1,106 @@
+.footer-basic {
+  padding:40px 0;
+  background-color:#000000;
+  color:#b5b5b5;
+}
+
+.footer-basic ul {
+  padding:0;
+  list-style:none;
+  text-align:center;
+  font-size:14px;
+  line-height:1.6;
+  margin-bottom:0;
+  font-family:Montserrat, sans-serif;
+  font-weight:300;
+}
+
+.footer-basic li {
+  padding:0 10px;
+}
+
+.footer-basic ul a {
+  color:inherit;
+  text-decoration:none;
+  opacity:0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity:1;
+}
+
+.footer-basic .social {
+  text-align:center;
+  padding-bottom:25px;
+}
+
+.footer-basic .social > a {
+  font-size:24px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #ccc;
+  margin:0 8px;
+  color:inherit;
+  opacity:0.75;
+}
+
+.footer-basic .social > a:hover {
+  opacity:0.9;
+}
+
+.footer-basic .copyright {
+  margin-top:15px;
+  text-align:center;
+  font-size:13px;
+  color:#aaa;
+  margin-bottom:0;
+}
+
+#homelink {
+  text-decoration:none;
+  color:#b83e4b;
+}
+
+.formhead {
+  color:rgb(0,0,0);
+  text-align:center;
+}
+
+#sendbutton {
+  text-align:center;
+  margin:20px auto;
+  max-width:200px;
+}
+
+.form-control.inputfiled {
+  background-color:rgba(34,17,17,0.76);
+}
+
+.label, h4 {
+  color:rgb(1,1,1);
+  text-align:center;
+}
+
+.col.formpart {
+}
+
+.form-control.textinput {
+  background-color:rgba(184,62,75,0.6);
+  color:rgb(0,0,0);
+  letter-spacing:1px;
+  font-size:18px;
+  font-weight:600;
+}
+
+.messinput {
+}
+
+.footerlinks {
+  text-decoration:none;
+  color:rgb(191,160,160);
+}
+
